@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/figma-design-to-code/static/css/main.6a4ffdff.css",
+    "main.js": "/figma-design-to-code/static/js/main.38662788.js",
+    "index.html": "/figma-design-to-code/index.html",
+    "main.6a4ffdff.css.map": "/figma-design-to-code/static/css/main.6a4ffdff.css.map",
+    "main.38662788.js.map": "/figma-design-to-code/static/js/main.38662788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4ffdff.css",
+    "static/js/main.38662788.js"
+  ]
+}
